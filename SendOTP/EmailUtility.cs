@@ -8,7 +8,6 @@ using System.Globalization;
 using System.Net.Mail;
 using System.Net;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace SendOTP
 {
