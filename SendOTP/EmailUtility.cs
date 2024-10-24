@@ -15,8 +15,8 @@ namespace SendOTP
     {
         public abstract class Email
         {
-            protected string FromEmail = "stefaniegabion111@gmail.com";
-            protected string FromPassword = "jomd jhyk dkbt ombm";
+            protected string FromEmail = "";
+            protected string FromPassword = "";
 
             protected string Subject { get; set; }
             protected string Body { get; set; }
